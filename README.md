@@ -141,3 +141,6 @@ npm run dev # runs rollup with a watcher
 [coveralls-url]: https://coveralls.io/r/ethereum/web3.js?branch=master
 [waffle-image]: https://badge.waffle.io/ethereum/web3.js.svg?label=ready&title=Ready
 [waffle-url]: https://waffle.io/ethereum/web3.js
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
